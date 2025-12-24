@@ -1,4 +1,4 @@
-"""K-MEANS CUSTOMER SEGMENTATION IN VS CODE"""
+"""K-MEANS CUSTOMER SEGMENTATION"""
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs
 from sklearn.cluster import KMeans
